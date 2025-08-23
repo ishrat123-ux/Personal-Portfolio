@@ -3,6 +3,10 @@
 Hi! 👋 I'm Ishrat, and this repository contains my basic to advanced level projects created during my Web Development Learning Journey.  
 Here, I've uploaded my practice projects and exercises using HTML and CSS.
 
+📅 Started On: 2 August 2025
+
+📂 Learning Structure: Daily folders containing notes, practice files, and projects
+
 📌 Projects
 
 1️⃣ Registration Form 
