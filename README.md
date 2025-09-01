@@ -17,7 +17,6 @@ Users can enter their details like name, email, and password.
 
 📂 Technology Used: HTML
 
-🔗 
 
 2️⃣ Sign-Up Page
 
@@ -27,9 +26,7 @@ It includes a responsive layout and better UI.
 
 📂 Technology Used: HTML, CSS
 
-🔗 View HTML
 
-🔗 View CSS
 
 3️⃣ Calculator Clone
 
@@ -37,9 +34,7 @@ It includes a responsive layout and better UI.
 A fully functional calculator created using HTML and CSS at an advanced level.
 It mimics the real-world calculator interface.
 📂 Technology Used: HTML, CSS
-🔗 View HTML
 
-🔗 View CSS
 
 4️⃣ Personal Portfolio Webpage
 
@@ -49,9 +44,7 @@ This project highlights my journey as a web developer with a clean and modern de
 
 📂 Technology Used: HTML, CSS
 
-🔗 View Project
 
-🔗 View CSS
 
 🎯 Learning Goals
 
